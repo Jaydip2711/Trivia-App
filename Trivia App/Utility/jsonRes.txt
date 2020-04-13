@@ -1,0 +1,53 @@
+{
+    "quiz": [
+        
+                {
+                    "question": "Who is the best cricketer in the world?",
+                    "options": [
+                        {
+                            "ans":"Sachin Tendulkar",
+                            "isSelected": false
+                            
+                        },
+                        {
+                            
+                            "ans":"Virat Kohli",
+                            "isSelected": false
+                        },
+                        {
+                            "ans":"Adam Gilchirst",
+                            "isSelected": false
+
+                        },
+                        {
+                            "ans":"Jacques Kallis",
+                            "isSelected": false
+                        }
+                    ]
+                },
+            	{
+                "question": "What are the colors in the Indian national flag?",
+                "options": [
+                    {
+						"ans":"White",
+                        "isSelected": false
+                        
+                    },
+                    {
+						
+                        "ans":"Yellow",
+                        "isSelected": false
+                    },
+                    {
+                        "ans":"Orange",
+                        "isSelected": false
+
+                    },
+                    {
+                        "ans":"Green",
+                        "isSelected": false
+					}
+                ]
+            }
+        ]
+}
